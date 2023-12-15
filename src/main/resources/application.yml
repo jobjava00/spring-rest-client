@@ -1,0 +1,4 @@
+
+service:
+  restapiexample:
+    url: https://dummy.restapiexample.com
